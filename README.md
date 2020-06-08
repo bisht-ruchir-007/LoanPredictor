@@ -5,10 +5,10 @@ It is based on the user’s marital status, education, number of dependents,cred
 
 
 # Score 
-  Logistic Regression   81.0
-  Support Vector Classifier   81.0
-  K-Nearest Neighbor   75.0
-  Decision Tree   73.0
-  Random Forest   77.0
+Logistic Regression   81.0
+Support Vector Classifier   81.0
+K-Nearest Neighbor   75.0
+Decision Tree   73.0
+Random Forest   77.0
 
 Google Colab link : https://colab.research.google.com/drive/1nMRZp1ezXm6jxvGNKn2kysw8KYAeWNXG?usp=sharing
